@@ -1,23 +1,35 @@
 
-{"pickrate":{
-    "Pokemon":{
-        "Mr Mime" : {
+{"Pokemon":[
+    
+         {
         "Name": "Mr Mime",
         "Pickrate": "42.10%",
         "ID" : "0"
         },
 
-"Mr Meme" : {
+{
             "Name": "Mr meme",
         "Pickrate": "41.10%",
         "ID" : "1"
 }
 
-    }
+    
         
     
 
+]
     
-    
+,
+
+
+
+"Pickrate":{"Mr Mime":"42.10%","Mew":"33.33%","Azumarill":"24.18%","Charizard":"22.45%","Aegislash":"20.82%","Gengar":"19.73%","Absol":"19.20%","Greninja":"19.18%","Glaceon":"18.47%","Tsareena":"15.62%","Pikachu":"15.33%","Delphox":"12.82%","Decidueye":"12.57%","Snorlax":"12.18%","Buzzwole":"12.11%","Blissey":"11.97%","Cinderace":"11.64%","Lucario":"11.08%","Dodrio":"10.97%","Slowbro":"10.59%","Mamoswine":"10.38%","Blastoise":"10.26%","Espeon":"9.73%","Tyranitar":"9.03%","Machamp":"8.75%","Talonflame":"8.36%","Scizor":"7.76%","Zeraora":"7.74%","Wigglytuff":"7.35%","Trevenant":"6.79%","Sylveon":"6.53%","Cramorant":"6.48%","Venusaur":"4.86%","Gardevoir":"5.82%","Duraludon":"5.41%","Ninetales":"5.24%","Dragonite":"4.92%","Greedent":"3.44%","Garchomp":"2.66%","Eldegoss":"2.64%","Hoopa":"1.70%"},
+
+"Winrate":{"Mr Mime":"53.42%","Greedent":"53.00%","Duraludon":"52.90%","Mew":"52.71%","Tsareena":"52.19%","Tyranitar":"51.68%","Charizard":"51.62%","Aegislash":"50.97%","Cramorant":"50.66%","Gengar":"50.54%","Glaceon":"50.50%","Mamoswine":"50.21%","Blissey":"50.11%","Dragonite":"50.02%","Greninja":"50.02%","Azumarill":"49.77%","Snorlax":"49.77%","Machamp":"49.69%","Absol":"49.50%","Cinderace":"49.49%","Dodrio":"49.30%","Sylveon":"49.24%","Eldegoss":"48.82%","Lucario":"48.73%","Delphox":"48.72%","Garchomp":"48.66%","Trevenant":"48.59%","Pikachu":"48.58%","Decidueye":"48.54%","Zeraora":"48.50%","Ninetales":"48.46%","Slowbro":"48.36%","Venusaur":"46.34%","Wigglytuff":"48.20%","Buzzwole":"47.84%","Gardevoir":"47.82%","Espeon":"47.73%","Blastoise":"47.62%","Talonflame":"47.55%","Hoopa":"45.81%","Scizor":"40.56%"},
+"Date": {
+   "Date" : "1665053546"
 }
+
 }
+
+
