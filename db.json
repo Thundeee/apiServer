@@ -1,0 +1,23 @@
+
+{"pickrate":{
+    "Pokemon":{
+        "Mr Mime" : {
+        "Name": "Mr Mime",
+        "Pickrate": "42.10%",
+        "ID" : "0"
+        },
+
+"Mr Meme" : {
+            "Name": "Mr meme",
+        "Pickrate": "41.10%",
+        "ID" : "1"
+}
+
+    }
+        
+    
+
+    
+    
+}
+}
